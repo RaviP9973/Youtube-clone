@@ -32,7 +32,7 @@ const SearchCard = ({ video }) => {
 
             <div>
               <span className="text-[15px] font-bold line-clamp-2">
-                {video?.title} ravi
+                {video?.title}
               </span>
               <span className="flex items-center font-semibold mt-2 text-[12px] text-gray-500">
                 {video?.author?.title}
