@@ -5,7 +5,7 @@ import logo from "../../public/logo.png";
 import { FaMicrophone } from "react-icons/fa6";
 import { RiVideoUploadLine } from "react-icons/ri";
 import { FaRegBell } from "react-icons/fa";
-import profile from "../../public/profile.jpg";
+import profile from "../../public/IMG_20241104_101613.jpg";
 import Avatar from "react-avatar";
 import { useNavigate } from "react-router-dom";
 import { useUtils } from "../context/UtilContext";
