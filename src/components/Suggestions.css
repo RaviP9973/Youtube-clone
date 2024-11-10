@@ -1,0 +1,17 @@
+.thumbnail-container {
+    position: relative;
+    height: 98px; /* You can adjust this height */
+    width: 158px; /* Ensure it's a square */
+    min-width: 168px;
+    border-radius: 8px; /* Optional rounded corners */
+    overflow: hidden;
+    transition: border-radius 0.2s; /* Smooth hover effect */
+  }
+  
+  
+  .thumbnail {
+    height: 100%;
+    width: 100%;
+    object-fit: cover; /* Ensures no distortion */
+  }
+  
